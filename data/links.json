@@ -1,0 +1,102 @@
+[
+  [
+    {
+      "name": "Bing",
+      "src": "https://cn.bing.com/",
+      "class": 1
+    },
+    {
+      "name": "百度一下",
+      "src": "https://www.baidu.com/",
+      "class": 1
+    }
+  ],
+  [
+    {
+      "name": "哔哩哔哩",
+      "src": "https://bilibili.com/",
+      "class": 2
+    },
+    {
+      "name": "虎牙直播",
+      "src": "https://www.huya.com/",
+      "class": 2
+    },
+    {
+      "name": "CCTV",
+      "src": "https://tv.cctv.com/",
+      "class": 2
+    },
+    {
+      "name": "电影狗",
+      "src": "https://www.dianyinggou.com/",
+      "class": 2
+    },
+    {
+      "name": "茶杯狐",
+      "src": "https://cupfox.app/",
+      "class": 2
+    },
+    {
+      "name": "BT世界",
+      "src": "https://www.btsj5.com/",
+      "class": 2
+    },
+    {
+      "name": "迅播动漫",
+      "src": "https://www.xbdm.org/",
+      "class": 2
+    },
+    {
+      "name": "美剧天堂",
+      "src": "https://www.meijutt.tv/",
+      "class": 2
+    },
+    {
+      "name": "韩饭网",
+      "src": "https://www.hanfan.cc/",
+      "class": 2
+    }
+  ],
+  [
+    {
+      "name": "华为云",
+      "src": "https://www.huaweicloud.com/",
+      "class": 3
+    },
+    {
+      "name": "阿里云",
+      "src": "https://cn.aliyun.com/",
+      "class": 3
+    }
+  ],
+  [
+    {
+      "name": "lksin",
+      "src": "https://lksin.xyz/",
+      "class": 4
+    }
+  ],
+  [
+    {
+      "name": "Road To Coding",
+      "src": "https://r2coding.com/",
+      "class": 5
+    },
+    {
+      "name": "Gitee",
+      "src": "https://gitee.com/",
+      "class": 5
+    },
+    {
+      "name": "GitHub",
+      "src": "https://github.com/",
+      "class": 5
+    },
+    {
+      "name": "Font Awesome",
+      "src": "https://fontawesome.com/",
+      "class": 5
+    }
+  ]
+]
