@@ -6,6 +6,11 @@
       "class": 1
     },
     {
+      "name": "Ecosia",
+      "src": "https://www.ecosia.org/",
+      "class": 1
+    },
+    {
       "name": "百度一下",
       "src": "https://www.baidu.com/",
       "class": 1
@@ -72,31 +77,151 @@
   ],
   [
     {
-      "name": "lksin",
-      "src": "https://lksin.xyz/",
+      "name": "知乎",
+      "src": "https://www.zhihu.com/",
+      "class": 4
+    },
+    {
+      "name": "简书",
+      "src": "https://www.jianshu.com/",
+      "class": 4
+    },
+    {
+      "name": "CSDN",
+      "src": "https://www.csdn.net/",
+      "class": 4
+    },
+    {
+      "name": "Gitee",
+      "src": "https://gitee.com/",
+      "class": 4
+    },
+    {
+      "name": "GitHub",
+      "src": "https://github.com/",
+      "class": 4
+    },
+    {
+      "name": "Maven仓库搜索",
+      "src": "https://mvnrepository.com/",
+      "class": 4
+    },
+    {
+      "name": "Font Awesome",
+      "src": "https://fontawesome.com/",
       "class": 4
     }
   ],
   [
     {
+      "name": "微信读书",
+      "src": "https://weread.qq.com/",
+      "class": 5
+    },
+    {
+      "name": "书栈网",
+      "src": "https://www.bookstack.cn/",
+      "class": 5
+    }
+  ],
+  [
+    {
+      "name": "Google翻译",
+      "src": "https://translate.google.cn/",
+      "class": 6
+    },
+    {
+      "name": "微软翻译",
+      "src": "https://cn.bing.com/translator",
+      "class": 6
+    },
+    {
+      "name": "有道翻译",
+      "src": "https://fanyi.youdao.com/",
+      "class": 6
+    },
+    {
+      "name": "百度翻译",
+      "src": "https://fanyi.baidu.com/",
+      "class": 6
+    },
+    {
+      "name": "搜狗翻译",
+      "src": "https://fanyi.sogou.com/text",
+      "class": 6
+    }
+  ],
+  [
+    {
+      "name": "MDN Web Docs",
+      "src": "https://developer.mozilla.org/zh-CN/",
+      "class":7
+    }
+  ],
+  [
+    {
+      "name": "中国大学MOOC",
+      "src": "https://www.icourse163.org/",
+      "class":7
+    },
+    {
+      "name": "腾讯课堂",
+      "src": "https://ke.qq.com/",
+      "class":7
+    },
+    {
+      "name": "慕课网",
+      "src": "https://www.imooc.com/",
+      "class":7
+    },
+    {
+      "name": "阿里云大学",
+      "src": "https://edu.aliyun.com/developer",
+      "class":7
+    },
+    {
+      "name": "华为云大学",
+      "src": "https://edu.huaweicloud.com/",
+      "class":7
+    }
+  ],
+  [
+    {
+      "name": "lksin",
+      "src": "https://lksin.xyz/",
+      "class": 9
+    },
+    {
       "name": "Road To Coding",
       "src": "https://r2coding.com/",
-      "class": 5
+      "class": 9
     },
     {
-      "name": "Gitee",
-      "src": "https://gitee.com/",
-      "class": 5
+      "name": "廖雪峰的官方网站",
+      "src": "https://www.liaoxuefeng.com/",
+      "class": 9
     },
     {
-      "name": "GitHub",
-      "src": "https://github.com/",
-      "class": 5
+      "name": "刘明野的工具箱",
+      "src": "https://tool.liumingye.cn/",
+      "class": 9
     },
     {
-      "name": "Font Awesome",
-      "src": "https://fontawesome.com/",
-      "class": 5
+      "name": "手艺人赵鹏",
+      "src": "https://zhaopeng.me/",
+      "class": 9
+    }
+  ],
+  [
+    {
+      "name": "MacBed",
+      "src": "https://www.macbed.com/",
+      "class": 10
+    },
+    {
+      "name": "精品Mac应用分享",
+      "src": "https://xclient.info/",
+      "class": 10
     }
   ]
 ]
