@@ -43,6 +43,16 @@
       "class": 2
     },
     {
+      "name": "NO视频",
+      "src": "https://www.novipnoad.com/",
+      "class": 2
+    },
+    {
+      "name": "BTNull",
+      "src": "https://www.btnull.org/",
+      "class": 2
+    },
+    {
       "name": "BT世界",
       "src": "https://www.btsj5.com/",
       "class": 2
@@ -50,6 +60,11 @@
     {
       "name": "迅播动漫",
       "src": "https://www.xbdm.org/",
+      "class": 2
+    },
+    {
+      "name": "樱花动漫",
+      "src": "https://www.yhdmp.live/",
       "class": 2
     },
     {
@@ -72,6 +87,16 @@
     {
       "name": "阿里云",
       "src": "https://cn.aliyun.com/",
+      "class": 3
+    },
+    {
+      "name": "腾讯云",
+      "src": "https://cloud.tencent.com/",
+      "class": 3
+    },
+    {
+      "name": "百度智能云",
+      "src": "https://cloud.baidu.com/",
       "class": 3
     }
   ],
